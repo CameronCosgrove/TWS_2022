@@ -11,10 +11,10 @@
 - Follow me on Twitter [@CryptidCosgrove](https://twitter.com/CryptidCosgrove)
 
 
-# E-poster version 
+# E-poster version [high res download 2.2 mb](murrelet_poster_TWS_final-compressed.pdf)
 
 
-![murrelet_poster](https://user-images.githubusercontent.com/35665619/200385795-64a59a8c-b1b8-443d-9d98-04f2eb770e51.jpg)
+![murrelet_poster](![murrelet_poster](https://user-images.githubusercontent.com/35665619/200390333-1deafe97-4ef9-415a-8c1b-9f024c360e9b.jpg)
 
 
 
