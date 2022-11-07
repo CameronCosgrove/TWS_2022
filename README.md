@@ -33,7 +33,7 @@ The marbled murrelet (Brachyramphus marmoratus) is an elusive tree-nesting sea b
 ![image](https://user-images.githubusercontent.com/35665619/200389175-fe703a34-e9d0-437d-a3c7-543e7e143a78.png)
 
 
-We are active on twitter. Follow [@IRSS_UBC](https://twitter.com/IRSS_UBC)
+## We are active on twitter. Follow [@IRSS_UBC](https://twitter.com/IRSS_UBC)
 
-Check out our website here: 
+Check out our website [here](https://irsslab.forestry.ubc.ca/): 
 ![image](https://user-images.githubusercontent.com/35665619/200384984-68e6f1f2-2b6d-44d4-9d45-de01d10eb234.png)
